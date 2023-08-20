@@ -1,0 +1,91 @@
+2023-08-20 20:33:41.0720|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-08-20 20:33:44.8061|Information|Adding cloud provider "Google Drive" mapped to G:\
+2023-08-20 20:33:50.0698|Information|Drive added: C:\, Fixed
+2023-08-20 20:33:50.1542|Information|Drive added: G:\, Fixed
+2023-08-20 20:33:50.1620|Information|Adding cloud provider "OneDrive" mapped to C:\Users\akona\OneDrive
+2023-08-20 20:33:51.6722|Information|SIDELOAD: Checking for updates...
+2023-08-20 20:33:53.1520|Information|SIDELOAD: Current Package Name: Files
+2023-08-20 20:33:53.1522|Information|SIDELOAD: Remote Package Name: Files
+2023-08-20 20:33:53.1524|Information|SIDELOAD: Current Version: 2.5.21.0
+2023-08-20 20:33:53.1525|Information|SIDELOAD: Remote Version: 2.5.21.0
+2023-08-20 20:33:53.1553|Warning|SIDELOAD: Update not found.
+2023-08-20 20:34:11.1689|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-08-20 20:34:11.4098|Information|Adding cloud provider "Google Drive" mapped to G:\
+2023-08-20 20:34:12.1479|Information|Drive added: C:\, Fixed
+2023-08-20 20:34:12.1914|Information|Drive added: G:\, Fixed
+2023-08-20 20:34:12.2622|Information|Adding cloud provider "OneDrive" mapped to C:\Users\akona\OneDrive
+2023-08-20 20:34:12.9055|Information|SIDELOAD: Checking for updates...
+2023-08-20 20:34:13.9199|Information|SIDELOAD: Current Package Name: Files
+2023-08-20 20:34:13.9203|Information|SIDELOAD: Remote Package Name: Files
+2023-08-20 20:34:13.9205|Information|SIDELOAD: Current Version: 2.5.21.0
+2023-08-20 20:34:13.9206|Information|SIDELOAD: Remote Version: 2.5.21.0
+2023-08-20 20:34:13.9224|Warning|SIDELOAD: Update not found.
+2023-08-20 20:35:45.2589|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-08-20 20:35:45.5138|Information|Adding cloud provider "Google Drive" mapped to G:\
+2023-08-20 20:35:46.2914|Information|Drive added: C:\, Fixed
+2023-08-20 20:35:46.3451|Information|Adding cloud provider "OneDrive" mapped to C:\Users\akona\OneDrive
+2023-08-20 20:35:46.3760|Information|Drive added: G:\, Fixed
+2023-08-20 20:35:47.1736|Information|SIDELOAD: Checking for updates...
+2023-08-20 20:35:48.2688|Information|SIDELOAD: Current Package Name: Files
+2023-08-20 20:35:48.2691|Information|SIDELOAD: Remote Package Name: Files
+2023-08-20 20:35:48.2693|Information|SIDELOAD: Current Version: 2.5.21.0
+2023-08-20 20:35:48.2694|Information|SIDELOAD: Remote Version: 2.5.21.0
+2023-08-20 20:35:48.2715|Warning|SIDELOAD: Update not found.
+2023-08-20 20:37:35.5803|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-08-20 20:37:35.8166|Information|Adding cloud provider "Google Drive" mapped to G:\
+2023-08-20 20:37:36.5292|Information|Drive added: C:\, Fixed
+2023-08-20 20:37:36.5826|Information|Adding cloud provider "OneDrive" mapped to C:\Users\akona\OneDrive
+2023-08-20 20:37:36.5993|Information|Drive added: G:\, Fixed
+2023-08-20 20:37:37.2791|Information|SIDELOAD: Checking for updates...
+2023-08-20 20:37:38.3715|Information|SIDELOAD: Current Package Name: Files
+2023-08-20 20:37:38.3718|Information|SIDELOAD: Remote Package Name: Files
+2023-08-20 20:37:38.3720|Information|SIDELOAD: Current Version: 2.5.21.0
+2023-08-20 20:37:38.3721|Information|SIDELOAD: Remote Version: 2.5.21.0
+2023-08-20 20:37:38.3739|Warning|SIDELOAD: Update not found.
+2023-08-20 20:40:05.1772|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-08-20 20:40:05.4215|Information|Adding cloud provider "Google Drive" mapped to G:\
+2023-08-20 20:40:06.2001|Information|Drive added: C:\, Fixed
+2023-08-20 20:40:06.2658|Information|Drive added: G:\, Fixed
+2023-08-20 20:40:06.2743|Information|Adding cloud provider "OneDrive" mapped to C:\Users\akona\OneDrive
+2023-08-20 20:40:07.0536|Information|SIDELOAD: Checking for updates...
+2023-08-20 20:40:08.0954|Information|SIDELOAD: Current Package Name: Files
+2023-08-20 20:40:08.0957|Information|SIDELOAD: Remote Package Name: Files
+2023-08-20 20:40:08.0959|Information|SIDELOAD: Current Version: 2.5.21.0
+2023-08-20 20:40:08.0961|Information|SIDELOAD: Remote Version: 2.5.21.0
+2023-08-20 20:40:08.0979|Warning|SIDELOAD: Update not found.
+2023-08-20 20:40:09.5059|Information|Running on ARM: False
+2023-08-21 08:34:58.9302|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-08-21 08:34:59.1992|Information|Adding cloud provider "OneDrive" mapped to C:\Users\akona\OneDrive
+2023-08-21 08:35:00.8318|Information|Drive added: C:\, Fixed
+2023-08-21 08:35:01.0479|Information|Running on ARM: False
+2023-08-21 08:35:01.9047|Information|SIDELOAD: Checking for updates...
+2023-08-21 08:35:03.0563|Information|SIDELOAD: Current Package Name: Files
+2023-08-21 08:35:03.0565|Information|SIDELOAD: Remote Package Name: Files
+2023-08-21 08:35:03.0567|Information|SIDELOAD: Current Version: 2.5.21.0
+2023-08-21 08:35:03.0568|Information|SIDELOAD: Remote Version: 2.5.21.0
+2023-08-21 08:35:03.0597|Warning|SIDELOAD: Update not found.
+2023-08-21 08:35:04.2078|Information|Drive added: G:\
+2023-08-21 08:56:44.7774|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-08-21 08:56:45.1718|Information|Adding cloud provider "Google Drive" mapped to G:\
+2023-08-21 08:56:45.9886|Information|Adding cloud provider "OneDrive" mapped to C:\Users\akona\OneDrive
+2023-08-21 08:56:46.2457|Information|Drive added: C:\, Fixed
+2023-08-21 08:56:46.5832|Information|Drive added: G:\, Fixed
+2023-08-21 08:56:46.6464|Information|Running on ARM: False
+2023-08-21 08:56:48.2665|Information|SIDELOAD: Checking for updates...
+2023-08-21 08:56:49.3502|Information|SIDELOAD: Current Package Name: Files
+2023-08-21 08:56:49.3506|Information|SIDELOAD: Remote Package Name: Files
+2023-08-21 08:56:49.3507|Information|SIDELOAD: Current Version: 2.5.21.0
+2023-08-21 08:56:49.3508|Information|SIDELOAD: Remote Version: 2.5.21.0
+2023-08-21 08:56:49.3527|Warning|SIDELOAD: Update not found.
+2023-08-21 09:01:57.7428|Information|App launched. Launch args type: LaunchActivatedEventArgs
+2023-08-21 09:01:57.9736|Information|Adding cloud provider "Google Drive" mapped to G:\
+2023-08-21 09:01:58.5279|Information|Adding cloud provider "OneDrive" mapped to C:\Users\akona\OneDrive
+2023-08-21 09:01:58.9429|Information|Running on ARM: False
+2023-08-21 09:01:59.4812|Information|Drive added: C:\, Fixed
+2023-08-21 09:01:59.5949|Information|Drive added: G:\, Fixed
+2023-08-21 09:02:00.5652|Information|SIDELOAD: Checking for updates...
+2023-08-21 09:02:01.5551|Information|SIDELOAD: Current Package Name: Files
+2023-08-21 09:02:01.5554|Information|SIDELOAD: Remote Package Name: Files
+2023-08-21 09:02:01.5556|Information|SIDELOAD: Current Version: 2.5.21.0
+2023-08-21 09:02:01.5557|Information|SIDELOAD: Remote Version: 2.5.21.0
+2023-08-21 09:02:01.5576|Warning|SIDELOAD: Update not found.
